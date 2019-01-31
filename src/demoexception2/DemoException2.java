@@ -1,4 +1,4 @@
-package demoexception2;
+package demoexception2; // test comment
 
 import java.util.Scanner;
 
