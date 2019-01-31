@@ -1,5 +1,7 @@
 package demoexception2;
 
+import java.util.Scanner;
+
 public class DemoException2 {
 
     public static void main(String[] args) {
@@ -23,8 +25,9 @@ public class DemoException2 {
             System.out.println("Program segment has ended");
         }
         
+        Scanner input = new Scanner(System.in);
+        int i = input.nextInt();
         
-//        System.out.println(digit);
     }
     
 }
