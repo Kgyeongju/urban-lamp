@@ -3,6 +3,8 @@ package demoexception2; // test comment **
 import java.util.Scanner;
 
 public class DemoException2 {
+    
+    private int demoexception;
 
     public static void main(String[] args) {
         try {
